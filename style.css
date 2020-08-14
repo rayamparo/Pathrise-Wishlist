@@ -1,0 +1,55 @@
+body {
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.font-weight-light {
+    text-align: center;
+}
+
+.list-group {
+    margin: auto;
+    width: 20%;
+
+}
+
+#plus {
+    margin: auto;
+
+}
+
+.list-group-item {
+    margin: 5px;
+}
+
+#addBtn {
+    margin: auto;
+}
+
+.modal-title {
+    text-align: center;
+}
+
+#whenAdded {
+    float: right;
+}
+
+#jobTitle {
+    text-align: center;
+}
+
+#deleteModal {
+    text-align: center;
+}
+
+.deleteFooter {
+    margin: auto;
+}
+
+.delete {
+    float: right;
+}
+
